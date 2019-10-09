@@ -1,13 +1,11 @@
 <?php
 /*
 Plugin Name: RatingCaptian
-Plugin URI: https://wordpress.org/plugins/duplicate-page/
-Description: Duplicate Posts, Pages and Custom Posts using single click.
+Description: Integrate your woocommerce shop with ratingcaptain
 Author: mathieu.pl
 Version: 2.7
-Author URI: https://profiles.wordpress.org/mndpsingh287/
 License: GPLv2
-Text Domain: duplicate-page
+Text Domain: rating-captain
 */
 require('php-client/RatingCaptain.php');
 if(!class_exists('duplicate_page')):
